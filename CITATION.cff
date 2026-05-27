@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+title: "Awesome AI Storyboarding"
+message: "If you use this, please cite as below."
+authors:
+  - family-names: "STORYLINER Team"
+    affiliation: "Storyliner"
+    website: "https://www.storyliner.online"
+repository-code: "https://github.com/mcqx4/awesome-ai-storyboarding"
+url: "https://www.storyliner.online"
+keywords:
+  - filmmaking
+  - storyboard
+  - pre-production
+  - ai-tools
+  - awesome-list
+license: MIT
+abstract: "Curated list of AI tools, libraries, and resources for storyboarding, pre-production, and the script-to-storyboard pipeline."
