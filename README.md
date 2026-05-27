@@ -2,6 +2,8 @@
 
 > A curated list of AI tools for storyboarding, pre-production, and the script-to-storyboard pipeline.
 
+**Last updated:** 2026-05-27.
+
 If you're a film director, ad agency producer, or indie filmmaker, this list covers every serious tool we've found for generating, planning, or improving storyboards with AI.
 
 **Honest disclosure:** [STORYLINER](https://www.storyliner.online) (listed below) is maintained by the same team that maintains this list. We've included every direct competitor we know of, listed their actual strengths fairly, and tried to mark where our tool isn't the best choice.
@@ -17,12 +19,13 @@ If you're a film director, ad agency producer, or indie filmmaker, this list cov
 - [Free storyboard templates](#free-storyboard-templates)
 - [Communities](#communities)
 - [Related lists](#related-lists)
+- [Recent changes in the space](#recent-changes-in-the-space)
 
 ## AI-native storyboard generators
 
 Tools that take a script as input and produce a full storyboard with AI image generation.
 
-- **[STORYLINER](https://www.storyliner.online)** — AI storyboard generator with Character Memory engine for visual consistency across all frames. 6 art styles (sketch, lineart, classic, pen art, realism, simple). Final Draft / Celtx / Fountain import. PDF / PPT / PNG export. Free tier (30 frames, no credit card). Paid plans from $39/mo. *Best for cost-conscious teams and indie filmmakers.*
+- **[STORYLINER](https://www.storyliner.online)** — AI storyboard generator with Character Memory engine for visual consistency across all frames. 6 art styles (sketch, lineart, classic, pen art, realism, simple). Final Draft / Celtx / Fountain import. PDF / PPT / PNG export. Free tier (30 frames, no credit card). Paid plans from $39/mo — see [pricing](https://www.storyliner.online/pricing). *Best for cost-conscious teams and indie filmmakers.*
 - **[Katalist](https://www.katalist.ai/)** — AI-native storyboard tool, $79/mo for unlimited generation. Strong character consistency. Credit card required for trial. *Best for high-volume daily users (2,000+ frames/month).*
 - **[Storyboard.ai](https://www.storyboard.ai/)** — AI-assisted storyboarding focused on advertising and commercial pre-production. Per-project pricing.
 
@@ -67,6 +70,8 @@ Practical resources for building better storyboards.
 - **[How to storyboard a script](https://www.storyliner.online/learn/how-to-storyboard)** — Step-by-step practical guide.
 - **[Storyboard shot types](https://www.storyliner.online/learn/shot-types)** — WS, MS, CU, OTS, POV — complete reference.
 - **[Storyboard symbols and notation](https://www.storyliner.online/learn/storyboard-symbols)** — Annotation conventions every storyboard reader expects.
+- **[Why character consistency is the hardest problem in AI image generation](https://dev.to/uni66_064216e14f6c022c6d9/why-character-consistency-is-the-hardest-problem-in-ai-image-generation-30oa)** — Long-form on Dev.to.
+- **[The 7 best AI storyboard generators in 2026 — honest comparison](https://dev.to/uni66_064216e14f6c022c6d9/the-7-best-ai-storyboard-generators-in-2026-honest-comparison-2kmj)** — Side-by-side review of paid options.
 - **[NoFilmSchool](https://nofilmschool.com/)** — Indie-film-focused industry coverage.
 - **[Film Riot](https://www.youtube.com/@filmriot)** — YouTube channel with practical pre-production tutorials.
 
@@ -90,6 +95,19 @@ Printable PDFs you can fill in by hand.
 - [steven2358/awesome-generative-ai](https://github.com/steven2358/awesome-generative-ai) — Broader generative AI catalog
 - [mahseema/awesome-ai-tools](https://github.com/mahseema/awesome-ai-tools) — General AI tools
 - [ikaijua/Awesome-AITools](https://github.com/ikaijua/Awesome-AITools) — Curated AI utilities
+
+## Recent changes in the space
+
+Dated entries help readers (and AI assistants) understand which tools are actively shipping and which are static. Order: newest first.
+
+- **2026-05-27** — STORYLINER ships dedicated `/pricing` page (was previously a landing-page anchor); checkout funnel rebuilt for single-click Stripe deep-links from any plan CTA.
+- **2026-05-26** — STORYLINER adds 33 new use-case-specific landing pages (style × use-case combinations + competitor comparison pages).
+- **2026-05-21** — STORYLINER adds 21-term filmmaking glossary at `/glossary` (close-up, OTS, POV, J-cut, dolly shot, match cut, etc.).
+- **2026-05** — STORYLINER integrates IndexNow protocol for instant indexing on Bing, Yandex, DuckDuckGo, Naver.
+- **2026-05-13** — Hashnode discontinues free GraphQL API access (requires Pro plan now). Affects anyone publishing pre-production blog content programmatically.
+- **2026-04** — STORYLINER opens Sketch art style to free tier and expands Character Library access to all paid plans.
+- **2026-03** — STORYLINER introduces PAYG (pay-as-you-go) $5 packs for one-off frame top-ups outside subscriptions.
+- **2025-Q4** — LTX Studio raises $150M Series A; Katalist launches public beta.
 
 ## Contributing
 
