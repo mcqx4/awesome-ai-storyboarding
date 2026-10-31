@@ -45,6 +45,7 @@ Tools where storyboarding is one step in a broader AI video pipeline.
 - **[LTX Studio](https://ltx.studio/)** — Full AI video production platform, $150M funded. Storyboarding is intermediate step before animatic. *Best for AI-forward studios building full short films end-to-end. Steep learning curve.*
 - **[Runway](https://runwayml.com/)** — AI video generation with image-to-video and director-style controls. Not storyboard-first but produces storyboard-like keyframes.
 - **[Pika](https://pika.art/)** — Idea-to-video AI platform. Faster than Runway, smaller per-clip generation.
+- **[GenFlick](https://genflick.com/?utm_source=github.com&utm_medium=directory&utm_campaign=seo_directory)** — AI studio for films, series, music videos and ads. Storyboard Generator lets you see every frame before you shoot, then Genny, your creative director, carries the idea into Film, Series, Brand, Influencer or Song to Music Video with the same cast in every shot and every episode, and finished 4K cuts. Start free every day, no card; plans from $19.90/mo.
 
 ## Script format converters
 
