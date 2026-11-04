@@ -72,6 +72,7 @@ Practical resources for building better storyboards.
 - **[Storyboard symbols and notation](https://www.storyliner.online/learn/storyboard-symbols)** — Annotation conventions every storyboard reader expects.
 - **[Why character consistency is the hardest problem in AI image generation](https://dev.to/uni66_064216e14f6c022c6d9/why-character-consistency-is-the-hardest-problem-in-ai-image-generation-30oa)** — Long-form on Dev.to.
 - **[The 7 best AI storyboard generators in 2026 — honest comparison](https://dev.to/uni66_064216e14f6c022c6d9/the-7-best-ai-storyboard-generators-in-2026-honest-comparison-2kmj)** — Side-by-side review of paid options.
+- **[Six-shot storyboard planning sheet](https://silentstorm290.github.io/queststudio-creative-handoff-kit/templates/six-shot-storyboard.csv)** — Blank CSV for planning a short sequence: shot purpose, framing, action, continuity requirements, acceptance checks and review state. Proposed timings are editable.
 - **[NoFilmSchool](https://nofilmschool.com/)** — Indie-film-focused industry coverage.
 - **[Film Riot](https://www.youtube.com/@filmriot)** — YouTube channel with practical pre-production tutorials.
 
