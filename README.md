@@ -45,6 +45,7 @@ Tools where storyboarding is one step in a broader AI video pipeline.
 - **[LTX Studio](https://ltx.studio/)** — Full AI video production platform, $150M funded. Storyboarding is intermediate step before animatic. *Best for AI-forward studios building full short films end-to-end. Steep learning curve.*
 - **[Runway](https://runwayml.com/)** — AI video generation with image-to-video and director-style controls. Not storyboard-first but produces storyboard-like keyframes.
 - **[Pika](https://pika.art/)** — Idea-to-video AI platform. Faster than Runway, smaller per-clip generation.
+- **[Kling AI](https://kling.ai/)** — Image and video generation that can help create visual references and shots for pre-production. Its [official MCP integration](https://kling.ai/app/mcp/guide) offers OAuth access for compatible assistants through `https://kling.ai/mcp/plugin`; generation uses paid personal-workspace credits. Not a storyboard-first tool.
 
 ## Script format converters
 
